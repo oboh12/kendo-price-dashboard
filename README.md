@@ -35,7 +35,7 @@ Nuclia transforms the dashboard from static visualization into an **AI-powered a
 
 ## 📸 Screenshots  
 
-[Dashboard Screenshot](screenshots/IMG_20250928_001447_184.jpg) 
+[Dashboard Screenshot](IMG_20250928_001447_184.jpg)
 
 ---
 
