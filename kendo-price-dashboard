@@ -1,0 +1,52 @@
+# Kendo Price Dashboard
+
+A price tracking dashboard built with **KendoReact** and modern JavaScript tools.  
+This project visualizes product prices from e-commerce websites in real time and displays them in an interactive dashboard.
+
+---
+
+## 🚀 Features
+- 📊 Interactive price charts and tables with **KendoReact**
+- 🌐 Real-time data fetching from e-commerce sites
+- 🔄 Automatic price updates
+- 📁 Organized codebase with reusable components
+- ⚡ Built with **React + Vite** for fast development
+
+---
+
+## 🖼️ Screenshot / Demo
+
+IMG_20250928_001447_184.jpg
+
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React, Vite, KendoReact
+- **Backend (optional)**: Node.js, Express
+- **Data Fetching**: Axios, Bright Data proxy
+- **Version Control**: Git & GitHub
+
+---
+
+## 📂 Project Structure
+kendo-price-dashboard/ |- public/ #Static files  |- src/ #React components & logic| |- components/ #Reusable UI components| |- pages/ #Dashboard pages| |- App.jsx # Main app entry |- package.json # Dependencies & scripts |- vite.config.js # Vite configuration |- README.md # Project documentation 
+
+Installation & Setup:
+Clone the repository:
+..... bash
+git clone 
+https://github.com/oboh12/kendo-price-dashboard.git
+   cd  kendo-price-dashboard
+
+Install dependencies:
+npm install 
+
+Start development server:
+npm start 
+
+Build for production:
+npm run build 
+
+License:
+This project is open source and available under the MIT License 
