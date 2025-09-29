@@ -1,0 +1,32 @@
+---
+
+### 3. **package.json** (already exists, but in case you want to overwrite manually)
+
+File: `package.json`  
+```json
+{
+  "name": "kendo-price-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-react-buttons": "^7.0.0",
+    "@progress/kendo-react-charts": "^7.0.0",
+    "@progress/kendo-react-dateinputs": "^7.0.0",
+    "@progress/kendo-react-dropdowns": "^7.0.0",
+    "@progress/kendo-react-grid": "^7.0.0",
+    "@progress/kendo-react-inputs": "^7.0.0",
+    "@progress/kendo-react-layout": "^7.0.0",
+    "@progress/kendo-react-progressbars": "^7.0.0",
+    "@progress/kendo-theme-default": "^7.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
